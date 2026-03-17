@@ -59,6 +59,10 @@ You will be prompted to enter a username. Open two or three terminals and connec
 ```
  
 ---
+## Demo
+
+![Demo Image](chatapp.png)
+
  
 ## Design notes
  
